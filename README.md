@@ -1,76 +1,104 @@
-# Hi there, I'm Aayush Goyal! 👋
+# 👋 Hi, I'm Aayush Goyal
 
 ## 💫 About Me
-Hello! I'm Aayush Goyal, a dedicated web developer with a passion for transforming ideas into functional, user-friendly web applications. My expertise lies in the MERN stack (MongoDB, Express, React, Node.js), where I enjoy crafting responsive and dynamic user interfaces and building robust backend systems. I have a strong grasp of React, which I use to develop engaging and efficient UIs. My proficiency with Tailwind CSS ensures that my projects not only function well but also look sleek and modern. Additionally, Redux is my go-to for managing complex state across applications. Beyond the MERN stack, I have a solid understanding of C++, Python, and SQL, which allows me to tackle a wide array of programming challenges. I’m always eager to learn new technologies and improve my skills to deliver top-notch solutions.
 
+I'm a passionate and results-driven web developer with a strong foundation in the *MERN stack (MongoDB, Express.js, React, Node.js)*. I specialize in building seamless and scalable web applications that deliver great user experiences. My expertise includes developing interactive UIs with React, styling efficiently using Tailwind CSS, and managing application state with Redux.
+
+Alongside my web development skills, I have solid experience in *C++, Python, SQL, and **Docker*, which allows me to handle diverse technical tasks — from algorithmic problem-solving to scalable backend deployment. I'm always eager to explore new technologies and refine my skills by working on real-world projects.
+
+---
 
 ## 🛠 Tech Stack
 
+### 🔷 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-- *Frontend:* 
+### 🔶 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"></span> *React*
-    
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"> </span>*Tailwind CSS*
-    
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"></span> *Redux*
-    
-- *Backend:* 
-  
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"></span> *Node.js*
-   
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"></span> *Express*
-    
-- *Database:* 
+### 🟢 Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
- - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"></span> *MongoDB*
-    
-- *Other Tools:*
-  
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"> </span>*GitHub*
-    
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"></span> *C++*
-    
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"></span> *Python*
-    
-  - <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"></span> *SQL*
+### ⚙️ Tools & Languages
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+---
 
 ## 🚀 Projects
 
-### WanderLust
-WanderLust is an all-in-one platform designed for travelers and adventurers. It enables users to explore, plan, and book their dream vacations effortlessly. This project harnesses the full power of the MERN stack to deliver a seamless and interactive user experience. It includes dynamic listings, user reviews, and an interactive map for exploring destinations.
+### 🔗 [WanderLust](https://wanderlust-project-main.onrender.com/listings)
+A full-featured travel and adventure booking platform built with the MERN stack. Users can explore destinations, read reviews, and plan vacations interactively.
 
-- **Frontend:** HTML, CSS, Bootstrap, React, Tailwind CSS, Redux
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
+- *Frontend:* HTML, CSS, Bootstrap, React, Tailwind CSS, Redux  
+- *Backend:* Node.js, Express  
+- *Database:* MongoDB  
+- *Key Features:*
+  - User authentication & profile management
+  - Detailed travel listings with images and descriptions
+  - User reviews and ratings
+  - Interactive maps for destination exploration
 
-#### Features:
-- User authentication and profile management
-- Detailed travel listings with descriptions and images
-- User reviews and ratings
-- Interactive map for destination exploration
+---
 
-Explore the project: [WanderLust](https://majorproject-pze6.onrender.com/listings)
+### 🔗 [Mini React App](https://weather-app-five-ashen-63.vercel.app/)
+A learning-focused mini project showcasing core frontend concepts using React.
 
-### 🌱 Learning Project: Mini React App
-To sharpen my React skills, I developed a mini project that showcases various frontend techniques and best practices. The app includes:
+- *Highlights:*
+  - Dynamic content rendering with reusable components
+  - Clean and modular code structure
+  - State management and interactivity
+  - Responsive UI using modern CSS techniques
 
-#### Features:
-- Dynamic content rendering through an interactive UI
-- Component-based architecture for maintainability and scalability
-- Integrated state management for seamless data handling
-- Responsive design leveraging CSS and React libraries
+---
 
-Explore the project: [Mini React App](https://weather-app-five-ashen-63.vercel.app/)
+### 🔗 [Master Backend with Express.js](https://github.com/aayushgoyal2503/Backend)
+A production-grade backend system built with Node.js, Express.js, PostgreSQL, and Prisma ORM — deployed using Docker.
 
-## 📚 Data Structures and Algorithms in C++
-My proficiency in Data Structures and Algorithms with C++ enables me to tackle complex computational challenges effectively, making me adept at problem-solving.
+- *Features:*
+  - JWT authentication & secure password hashing with bcrypt
+  - File upload with validation and MIME-type filtering
+  - Background job queues with Redis + BullMQ
+  - Nodemailer-based email sending
+  - Fully modular codebase with environment-based configuration
+  - *Dockerized for containerized deployment*
 
-## 📫 How to reach me
-- **Email:** aayush.10463@gmail.com
-- **LinkedIn:** [Aayush Goyal](https://www.linkedin.com/in/aayushgoyal2503/)
-- **GitHub:** [Aayush Goyal](https://github.com/aayushgoyal2503)
+---
+
+### 🔗 [WebRTC Peer Communication Demo](https://github.com/aayushgoyal2503/WebRtc)
+A real-time audio/video communication demo using WebRTC's core media negotiation concepts.
+
+- *Key Concepts Implemented:*
+  - Local track handling using addTrack()
+  - Bi-directional media stream communication
+  - Codec and ICE candidate negotiation
+  - Manual signaling logic with potential WebSocket integration
+  - Clean educational structure, ideal for WebRTC fundamentals
+
+---
+
+## 📘 Data Structures & Algorithms in Python
+
+I have strong command over DSA using Python, which allows me to solve algorithmic problems efficiently and write optimized code for real-world scenarios.
+
+---
+
+## 📫 Contact Me
+
+- 📧 *Email:* [aayush.10463@gmail.com](mailto:aayush.10463@gmail.com)  
+- 💼 *LinkedIn:* [Aayush Goyal](https://www.linkedin.com/in/aayushgoyal2503/)  
+- 💻 *GitHub:* [aayushgoyal2503](https://github.com/aayushgoyal2503)
+
+---
 
 ## 🌟 Fun Fact
-I’m a puzzle enthusiast and love diving into mystery novels. When I’m not coding, you’ll likely find me exploring new technologies or working on personal projects to further hone my skills.
+
+I enjoy solving logic puzzles and reading mystery novels. In my spare time, I explore new technologies and build personal projects to sharpen my development skills.
+
+---
