@@ -16,9 +16,6 @@ Alongside my web development skills, I have solid experience in *C++, Python, SQ
 
 ![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushgoyal2503&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushgoyal2503&layout=compact&theme=tokyonight)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=aayushgoyal2503&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ## 🛠 Tech Stack
 
